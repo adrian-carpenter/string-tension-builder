@@ -1,0 +1,1 @@
+export const ACONSTANT = Math.pow(2, 1/12)
